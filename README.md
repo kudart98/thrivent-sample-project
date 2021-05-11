@@ -1,0 +1,1 @@
+# thrivent-sample-project
